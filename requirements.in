@@ -5,7 +5,7 @@ h5py
 numpy
 opencv-python-headless
 requests
-tensorflow==2.2.0rc2
+tensorflow==2.2.0
 toml
 tqdm
 wrapt==1.11.* # due to pylint
